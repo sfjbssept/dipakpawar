@@ -1,4 +1,4 @@
-package com.product.repo;
+package com.product.repository;
 
 public interface IProductRepository {
 

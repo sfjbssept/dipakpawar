@@ -1,4 +1,4 @@
-package com.product.Services;
+package com.product.service;
 
 public interface IProductService {
 

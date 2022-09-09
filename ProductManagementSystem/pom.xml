@@ -8,11 +8,11 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.project</groupId>
-	<artifactId>ProductsManagementSystem</artifactId>
+	<groupId>com.product</groupId>
+	<artifactId>ProductManagementSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ProductsManagementSystem</name>
-	<description>REST API application using spring boot</description>
+	<name>ProductManagementSystem</name>
+	<description>Rest API Application using Springboot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
@@ -29,7 +29,9 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+		
 
+		
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
